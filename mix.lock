@@ -1,1 +1,1 @@
-%{"mcrypt": {:git, "https://github.com/minhajuddin/elixir-mcrypt.git", "1a703d9b0d8ad517fe358633c67f7d11c9ac9672", [branch: "master"]}}
+%{"mcrypt": {:git, "https://github.com/minhajuddin/elixir-mcrypt.git", "fb97615039c8c8f2139d9f84a410456bd199c9a0", [branch: "master"]}}

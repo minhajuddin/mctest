@@ -1,6 +1,7 @@
 # Mctest
 
-**TODO: Add description**
+## Checkout the ./test/mctest_test.exs file for direction on how to use this
+## Just run `mix test` and you should see the output of encryption and decryption
 
 ## Installation
 
