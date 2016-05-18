@@ -1,0 +1,2 @@
+defmodule Mctest do
+end
